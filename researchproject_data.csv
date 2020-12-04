@@ -1,0 +1,62 @@
+MSRP,Year,Benchmark_Result,Brand,Processor,Chipset
+147,2016,4778,Intel Core,i3-7300,Kaby Lake
+224,2016,6586,Intel Core,i5-7600,Kaby Lake
+243,2016,6879,Intel Core,i5-7600K,Kaby Lake
+303,2016,8643,Intel Core,i7-7700,Kaby Lake
+350,2016,9716,Intel Core,i7-7700K,Kaby Lake
+989,2016,21462,Intel Core,i9-7900X,Kaby Lake
+117,2017,6161,Intel Core,i3-8100,Coffee Lake
+202,2017,9506,Intel Core,i5-8500,Coffee Lake
+257,2017,10248,Intel Core,i5-8600K,Coffee Lake
+303,2017,13099,Intel Core,i7-8700,Coffee Lake
+359,2017,13906,Intel Core,i7-8700K,Coffee Lake
+88,2018,6720,Intel Core,i3-9100F,Coffee Lake Refresh
+149,2018,9560,Intel Core,i5-9400F,Coffee Lake Refresh
+263,2018,10741,Intel Core,i5-9600K,Coffee Lake Refresh
+385,2018,14621,Intel Core,i7-9700K,Coffee Lake Refresh
+499,2018,18883,Intel Core,i9-9900K,Coffee Lake Refresh
+143,2019,9322,Intel Core,i3-10300,Comet Lake
+180,2019,12594,Intel Core,i5-10400,Comet Lake
+262,2019,14650,Intel Core,i5-10600K,Comet Lake
+374,2019,19689,Intel Core,i7-10700K,Comet Lake
+488,2019,24226,Intel Core,i9-10900K,Comet Lake
+117,2015,4147,Intel Core,i3-6100,Skylake
+119,2015,6066,Intel Core,i5-6600,Skylake
+234,2015,6267,Intel Core,i5-6600K,Skylake
+330,2015,8054,Intel Core,i7-6700,Skylake
+360,2015,8951,Intel Core,i7-6700K,Skylake
+265,2015,5906,Intel Core,i5-5675R,Broadwell
+348,2015,7819,Intel Core,i7-5775R,Broadwell
+1019,2016,13628,Intel Core,i7-6900K,Skylake
+120,2011,1792,Intel Core,i3-2100,Sandy Bridge
+117,2012,2192,Intel Core,i3-3220,Ivy Bridge
+210,2010,4060,Intel Core,i5-2500,Sandy Bridge
+225,2010,4078,Intel Core,i5-2500K,Sandy Bridge
+213,2012,4888,Intel Core,i5-3570,Ivy Bridge
+235,2012,4939,Intel Core,i5-3570K,Ivy Bridge
+300,2010,5334,Intel Core,i7-2600,Sandy Bridge
+330,2010,5435,Intel Core,i7-2600K,Sandy Bridge
+305,2012,6361,Intel Core,i7-3770,Ivy Bridge
+342,2012,6445,Intel Core,i7-3770K,Ivy Bridge
+147,2013,3563,Intel Core,i3-4330,Haswell
+225,2014,5613,Intel Core,i5-4690,Haswell
+240,2014,5584,Intel Core,i5-4690K,Haswell
+312,2013,7032,Intel Core,i7-4770,Haswell
+350,2013,7044,Intel Core,i7-4770K,Haswell
+109,2017,6320,AMD Ryzen,3 1200,Zen
+129,2017,6989,AMD Ryzen,3 1300X,Zen
+219,2017,12417,AMD Ryzen,5 1600,Zen
+249,2017,13070,AMD Ryzen,5 1600X,Zen
+329,2017,14634,AMD Ryzen,7 1700,Zen
+499,2017,15536,AMD Ryzen,7 1800X,Zen
+549,2017,26502,AMD Ryzen,Threadripper 1950X,Zen
+199,2018,13220,AMD Ryzen,5 2600,Zen+
+229,2018,14071,AMD Ryzen,5 2600X,Zen+
+299,2018,15716,AMD Ryzen,7 2700,Zen+
+329,2018,17589,AMD Ryzen,7 2700X,Zen+
+899,2018,30069,AMD Ryzen,Threadripper 2950X,Zen+
+99,2020,11757,AMD Ryzen,3 3100,Zen 2
+199,2019,17862,AMD Ryzen,5 3600,Zen 2
+249,2019,18324,AMD Ryzen,5 3600X,Zen 2
+329,2019,22823,AMD Ryzen,7 3700X,Zen 2
+1399,2019,64205,AMD Ryzen,Threadripper 3960X,Zen 2
